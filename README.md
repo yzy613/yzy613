@@ -7,7 +7,7 @@
 *Every dog has his day.*
 
 <a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzy613&layout=compact" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzy613&layout=compact&show_icons=true&title_color=79d4fd&icon_color=ffd700&text_color=fffacd&bg_color=60,161616,484848" />
 </a>
 
 <!--
